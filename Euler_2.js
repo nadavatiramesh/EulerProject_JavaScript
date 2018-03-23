@@ -13,3 +13,5 @@ while (tot[0]+tot[1]<4000000){
 }
 
 console.log(num);
+
+//Answer 4613732
